@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+openai
+langchain
+langchain-openai
+spacy
+nltk
+pandas
+PyMuPDF
+openai-whisper
+supabase
+python-dotenv
+pytest
+fpdf2
